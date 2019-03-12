@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tunckiral/Dev/c web server/main.c
+stdio.h
+-
+sys/socket.h
+-
+unistd.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+pthread.h
+-
+
