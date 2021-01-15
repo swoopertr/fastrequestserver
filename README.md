@@ -2,4 +2,4 @@
 native c coded fast request server.
 
 
-fasterst response ever.... :)
+fastest response ever.... :)
